@@ -7,11 +7,11 @@ It is important to note that Atharva Ingle built the dataset by augmenting datas
 
 ## Data field
 
-N - ratio of Nitrogen content in soil
-P - ratio of Phosphorous content in soil
-K - ratio of Potassium content in soil
-Temperature - temperature in degree Celsius
-Humidity - relative humidity in %
-Ph - ph value of the soil. Soils can be classified according to their pH value: 6.5 to 7.5—neutral, over 7.5— alkaline and less than 6.5—acidic
-Rainfall - rainfall in mm
-Lable - 22 Crops each with 100 observations
+* N - ratio of Nitrogen content in soil
+* P - ratio of Phosphorous content in soil
+* K - ratio of Potassium content in soil
+* Temperature - temperature in degree Celsius
+* Humidity - relative humidity in %
+* Ph - ph value of the soil. Soils can be classified according to their pH value: 6.5 to 7.5—neutral, over 7.5— alkaline and less than 6.5—acidic
+* Rainfall - rainfall in mm
+* Lable - 22 Crops each with 100 observations
